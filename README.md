@@ -7,7 +7,7 @@
 - [Technology Used](#technology-used)
 - [Setup Instructions](#setup-instructions)
 - [Copyright and license information](#copyright-and-license-information)
-- [Recourses](#recourses)
+- [Resources](#resources)
 
 ### Project Description
 
@@ -70,7 +70,7 @@ To run this application on your local machine, you need to have Ruby on Rails an
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Recourses
+## Resources
 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Microverse](https://www.microverse.org/)
