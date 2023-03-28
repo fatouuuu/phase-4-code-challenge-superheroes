@@ -11,7 +11,7 @@
 
 ### Project Description
 
-This project is a simple Rails REST API that fetches heroes and their powers. It is a code challenge for the [Moringa School](https://moringaschool.com/) Full Stack Web Development course. The project is hosted on [Heroku](#).
+This project is a simple Rails REST API that fetches heroes and their powers. 
 
 The API allows users to manage superheroes and their powers. The application has two models: Hero and Power. The Hero model represents a superhero, and the Power model represents a power that a superhero can have. The application also has a join table model called HeroPower that manages the relationship between a Hero and a Power.
 
